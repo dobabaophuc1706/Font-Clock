@@ -1,7 +1,7 @@
 [Font CLock](https://github.com/dobabaophuc1706/Font-Clock)
 =============
 
-<h3 align="center">Where you can download the best wallpapers for your phone!</h3>
+<h3 align="center">Where you can download your favorite Font Clock!</h3>
   
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="200"/> 
