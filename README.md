@@ -1,4 +1,4 @@
-[Font CLock](https://github.com/dobabaophuc1706/Font-Clock)
+[Font Clock](https://github.com/dobabaophuc1706/Font-Clock)
 =============
 
 <h3 align="center">Where you can download your favorite Font Clock!</h3>
